@@ -2,13 +2,13 @@
 Como parte de la PEC2 de la asignatura Visualización de Datos del Máster Universitario en Ciencia de Datos de la UOC, subo tres visualizaciones de tipología distinta. Una consiste en un gráfico de barras, otra en un ridgeline chart y la última en un diagrama de red.
 
 # Primera Visualización
-Muestra la suma de la media de precipitaciones en l/m^{2} agrupada en meses, que ha habido en Chiva a lo largo de 2024, a partir de un gráfico de barras. La fuente de los datos es el [repositorio del sistema S.A.I.H. de la Confederación Hidrográfica del Júcar O.A.](https://saih.chj.es/chj/saih/glayer?t=p) Hay que tener en cuenta que debido a esta reciente DANA, el 30/10/2024 los pluviómetros dejaron de funcionar. 
+Muestra la suma de la media de precipitaciones en l/m^{2} agrupada en meses, que ha habido en Chiva (Valencia) a lo largo de 2024, a partir de un gráfico de barras. La fuente de los datos es el [repositorio del sistema S.A.I.H. de la Confederación Hidrográfica del Júcar O.A.](https://saih.chj.es/chj/saih/glayer?t=p) Hay que tener en cuenta que debido a esta reciente DANA, el 30/10/2024 los pluviómetros dejaron de funcionar. 
 La herramienta para realizar esta visualización ha sido Excel.
 ![visu_1_datos_lluvia_2024_Chivia](https://github.com/user-attachments/assets/e1c4313f-6806-4a58-8075-e1cf390f56e0)
 
 
 # Segunda Visualización
-Se trata de un Ridgeline Chart que recoge todas la media de lluvia en l/m^{2} por cada día, desde el 01/01/2024 hasta el 13/11/2024 (teniendo en cuenta que el 30/10/2024 y días sucesivos no se recogió ningún dato debido al colapso provocado por la DANA), en la estación con pluviómetro en Chiva. La fuente de los datos es el [repositorio del sistema S.A.I.H. de la Confederación Hidrográfica del Júcar O.A.](https://saih.chj.es/chj/saih/glayer?t=p)
+Se trata de un Ridgeline Chart que recoge todas la media de lluvia en l/m^{2} por cada día, desde el 01/01/2024 hasta el 13/11/2024 (teniendo en cuenta que el 30/10/2024 y días sucesivos no se recogió ningún dato debido al colapso provocado por la DANA), en la estación con pluviómetro en Chiva (Valencia). La fuente de los datos es el [repositorio del sistema S.A.I.H. de la Confederación Hidrográfica del Júcar O.A.](https://saih.chj.es/chj/saih/glayer?t=p)
 Esta visualización se ha realizado mediante la herramienta RStudio.
 ![visu_2_Ridgeline_2024_Chiva](https://github.com/user-attachments/assets/85ecb907-7453-40e7-9e06-ea7a8e76f448)
 
