@@ -25,4 +25,4 @@ Para ver las visualizaciones únicamente hay que descargar los tres ficheros adj
 Este proyecto ha sido creado por Sofía Ramírez López
 
 ## Licencia
-Este proyecto está bajo la licencia Apache License 2.0. Para más detalle consultar el archivo LICENSE
+El proyecto está bajo la licencia Apache License 2.0. Para más detalle consultar el archivo LICENSE
